@@ -1,0 +1,56 @@
+
+
+body {
+	width: 1500px;
+	height: 800px;
+}
+
+/*everything here is part of the left bar that displays hashtags*/
+.leftbar {
+		display: block;
+	margin-right: 30%;
+	margin-left: 262.5px;
+	padding-top: 15px;
+}
+
+.addresstop {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin solid; 
+}
+.addressbottom {
+	padding-top: 785px;
+	border-bottom: thin solid;
+}
+
+.searchtag {
+	text-align: center;
+	position: relative;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 30px;
+	padding-top: 15%;
+	font-size: 60px;
+	font-family: helvetica;
+}
+.suptag {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: .25em;
+	font-style: italic;
+
+}
+
+h1 {
+	letter-spacing: 10px;
+}
+
+footer {
+text-align:center;
+position: relative;}
+
+/*This is the end of the left hashtag bar*/
